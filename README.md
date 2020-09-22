@@ -20,6 +20,9 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 - [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
+## NOTE
+-Databse:ecommerce.sql <br>
+-admin account: admin@gmail.com/admin123
 
 ## Learning Laravel
 
