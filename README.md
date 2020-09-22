@@ -1,8 +1,8 @@
-<p>
-## NOTE
--Databse:ecommerce.sql
--Admin account: admin@gmail.com/admin123
--Need: 
-+php artisan storage:link
 
+## NOTE
+<p>
+-Databse:ecommerce.sql<br>
+-Admin account: admin@gmail.com/admin123<br>
+-Need run: <br>
++php artisan storage:link<br>
 </p>
